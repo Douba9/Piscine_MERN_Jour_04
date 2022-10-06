@@ -1,0 +1,23 @@
+{
+  "name": "day-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Douba9/Piscine_MERN_Jour_04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Douba9/Piscine_MERN_Jour_04/issues"
+  },
+  "homepage": "https://github.com/Douba9/Piscine_MERN_Jour_04#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0"
+  }
+}
